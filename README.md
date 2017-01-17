@@ -1,4 +1,4 @@
-# Repository: 2016-09.project-0.template
+# Repository: 2017-01.project-0.template
 # Assignment #0: Test Project 
 
 > Course: **[CS 1656 - Introduction to Data Science](http://cs1656.org)** (CS 2056) -- Spring 2017    
